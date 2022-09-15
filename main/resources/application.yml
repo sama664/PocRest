@@ -1,0 +1,5 @@
+spring:
+  name: myfirstpoc
+  id: 12345
+User:
+  name: Soumitra
